@@ -1,4 +1,5 @@
-# TODO-JAVA
+<h1 align="center"> 
+TODO-JAVA</h1>
 Creating TODO app using java spring boot 
 Where User can create a todo list according to his or her schedule. 
 User can
